@@ -1,0 +1,19 @@
+body{
+	background-color:#A9A9A9;
+     }
+
+
+	
+a{
+ color:#191970;
+ font-family:Century Gothic;
+ text-decoration:none;
+ }
+
+a:hover{
+ color:#191970;
+ font-family:Century Gothic;
+ text-decoration:none;
+ font-size:18px;
+ font-weight:bold; 
+ }

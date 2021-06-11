@@ -1,0 +1,61 @@
+body{
+	background-color:#A9A9A9;
+     }
+
+table.inf{
+   			empty-cells:show;
+			border-collapse:collapse;
+			
+			}
+		  
+		  
+tr.campos td{
+	     	background-color:#BFE756;
+            font-family:"Arial Rounded MT Bold";
+			font-size:16px;
+	     	color:#333333;
+			border-style:solid;
+			border-width:1px;
+			border-color:#FFFFFF;
+			padding:10px;
+			white-space:nowrap;
+			}  
+
+	
+
+tr.info td{
+			background-color:#E6E6FA;
+	        font-family:"Segoe UI";
+	     	color:black;
+			border-style:solid;
+			border-width:1px;
+			border-color:#FFFFFF;
+			padding:5px;
+			white-space:nowrap;
+		
+			} 
+
+a{
+ color:#191970;
+ font-family:Century Gothic;
+ text-decoration:none;
+ }
+
+a:hover{
+ color:#191970;
+ font-family:Century Gothic;
+ text-decoration:none;
+ font-size:18px;
+ font-weight:bold; 
+ }
+
+	
+
+table.encab{
+				font-family:"Tahoma";
+	 			color:black;
+				font-size:19px;
+				font-weight:bold;
+						 
+     	    } 	
+			

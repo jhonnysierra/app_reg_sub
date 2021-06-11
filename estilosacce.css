@@ -1,0 +1,32 @@
+table.encab{
+				font-family:"Tahoma";
+	 			color:black;
+				font-size:34px;
+				font-weight:bold;
+						 
+     	    } 
+
+
+
+table.encab2{
+				font-family:"verdana";
+	 			color:black;
+				font-size:18px;
+				font-weight:bold;
+						 
+     	    } 	
+			
+.ingresar{
+				font-size:14px;
+				font-family:"verdana";
+				color:#A2CD5A;
+				font-weight:bold;
+				width:100px;
+				height:30px;
+				background-color:#313131;
+				border-style:solid;
+				border-width:1px;
+				border-color:#000000;
+
+						 
+     	    }
